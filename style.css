@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: "Cinzel", serif;
+}
+h2{
+    color: blueviolet;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    color:slategray;
+    text-decoration:underline;
+}
+.year{
+    font-style: italic;
+    font-weight: normal;
+}
+
+h4{
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    font-family: "Josefin Sans", sans-serif;
+}
+h3{
+    font-family: "Acme", sans-serif;
+}
+#li{
+    font-family: "Cantarell", sans-serif;
+}
+.skills{
+    font-family: "Cantarell", sans-serif;
+}
+h4{
+    text-align: left;
+}
+.Summary{
+    text-align: center;
+}
+.hobbies{
+    font-family: "Cantarell", sans-serif;
+}
+.Hobbies{
+    font-family: "Cantarell", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.footer{
+    text-align: center;
+    
+}
